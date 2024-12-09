@@ -43,8 +43,7 @@ git clone https://github.com/vikramjothikmateti/Natual_Language_Applications.git
 
 Install Dependencies:
 Bash
-pip install -r requirements.txt
-Use code with caution.
+pip install -r requirements.tx
 
 Run Notebooks: Open the Jupyter notebooks in the notebooks directory and execute the cells.
 
