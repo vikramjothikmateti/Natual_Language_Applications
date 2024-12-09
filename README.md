@@ -40,7 +40,6 @@ How to Use
 Clone the Repository:
 Bash
 git clone https://github.com/vikramjothikmateti/Natual_Language_Applications.git
-Use code with caution.
 
 Install Dependencies:
 Bash
